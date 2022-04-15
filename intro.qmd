@@ -1,6 +1,6 @@
-# Introduction
+# Introduction {#sec-introduction}
 
-This is a book created from markdown and executable code.
+This is a book created from markdown and executable code. @sec-summary.
 
 See @knuth84 for additional discussion of literate programming.
 
